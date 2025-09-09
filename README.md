@@ -1,4 +1,4 @@
-[Live Demo](prodigy-intern-t2-stopwatch-web-application-vhy2q3hlx.vercel.app)
+[Live Demo](https://prodigy-intern-t2-stopwatch-web-application.vercel.app/)
 # Stopwatch Web Application
 A simple and responsive Stopwatch Web Application built using HTML, CSS, and JavaScript.
 ## Features
