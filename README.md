@@ -1,3 +1,13 @@
 Check out the [Live Demo](prodigy-intern-t2-stopwatch-web-application-vhy2q3hlx.vercel.app)
-# Prodigy-Intern-T2-Stopwatch-web-Application
-This Stopwatch Web Application was developed during my internship at Prodigy Infotech using HTML, CSS, and JavaScript. The application features a user-friendly interface that allows users to start, stop, and reset the timer. It also includes lap functionality for tracking multiple time intervals within the same session.
+# Stopwatch Web Application
+A simple and responsive Stopwatch Web Application built using HTML, CSS, and JavaScript.
+## Features
+Start, pause, and reset stopwatch
+
+Lap time recording
+
+Clean and responsive user interface
+
+Built with vanilla JavaScript (no frameworks)
+
+Deployed on Vercel
